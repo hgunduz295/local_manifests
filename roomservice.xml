@@ -11,7 +11,7 @@
 <remove-project path="platform/hardware/qcom/power" name="LineageOS/android_hardware_qcom_power"/>
 
   <!-- Device repos -->
-<project path="device/wileyfox/crackling" name="Echelon-Team/android_device_wileyfox_crackling" revision="lineage-15.1" remote="GitHub" />
+<project path="device/wileyfox/crackling" name="Echelon-Team/android_device_wileyfox_crackling" revision="sensor" remote="GitHub" />
 <project path="device/cyanogen/msm8916-common" name="Echelon-Team/android_device_cyanogen_msm8916-common" revision="lineage-15.1" remote="GitHub" />
 <project path="vendor/wileyfox" name="Echelon-Team/proprietary_vendor_wileyfox" revision="lineage-15.1" remote="GitHub" />       
          
